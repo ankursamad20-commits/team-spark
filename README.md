@@ -2,7 +2,7 @@ README
 📚 Samadhan 2.0 Hackathon – Study Buddy Platform
 🚀 Building the next generation of AI-powered platforms for competitive exam preparation.   Organized under Samadhan 2.0, this hackathon is a 48-hour sprint to innovate solutions by students, for students.
 
-🎥 Watch Our Project Demo Video
+🎥 Watch Our Project Demo Video 
 https://youtu.be/2jmT-spSjX0?si=lw2Z4DUMoazna0f8
 
 🎯 Hackathon Theme
